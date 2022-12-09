@@ -51,6 +51,6 @@ function even_or_odd(number) {
 + *Kyrgyz - Native*
 + *Russian - Second native language*
 + *Turkish - Advanced C1* 
-![turkishLevel](/rsschool-cv/img/turkish_level.jpg)
+![turkishLevel](./img/turkish_level.jpg)
 + *English - Elementary A1*
 
